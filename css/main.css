@@ -1,0 +1,35 @@
+.container{
+    display: flex;
+    min-width: 100vw;
+    min-height: auto;
+    justify-content: center;
+
+}
+
+
+.cont{
+
+    border: 1px solid black;
+    min-width: 30vw;
+    min-height: 40vh;
+    margin: 0vh 5vw 0vh 5vw;
+    text-align: center;
+    font-size: 1.80vw;
+}
+
+.cont li{
+    border: 1px solid black;
+    list-style-type: none;
+    min-height: 11vh;
+    min-width: 8vw;    
+    margin: 2vh 3vw 2vh 0vw;
+}
+
+.cont ul{
+    min-height: auto;
+}
+
+
+
+
+
